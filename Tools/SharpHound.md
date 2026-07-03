@@ -1,1 +1,0 @@
-SharpHound.exe -c All
